@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLauncherGaugeview", "AutoLauncherGaugeview.csproj", "{B0026C56-C08E-4858-81DB-C5A14F94DDE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0026C56-C08E-4858-81DB-C5A14F94DDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0026C56-C08E-4858-81DB-C5A14F94DDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0026C56-C08E-4858-81DB-C5A14F94DDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0026C56-C08E-4858-81DB-C5A14F94DDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7760F96-44F6-4EC9-BD99-9C6E6022F4B8}
+	EndGlobalSection
+EndGlobal

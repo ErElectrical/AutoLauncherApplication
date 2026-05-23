@@ -1,0 +1,8 @@
+C:\Dotnet_Learning\AutoLauncherGaugeview\bin\Release\AutoLauncherGaugeview.exe.config
+C:\Dotnet_Learning\AutoLauncherGaugeview\bin\Release\AutoLauncherGaugeview.exe
+C:\Dotnet_Learning\AutoLauncherGaugeview\bin\Release\AutoLauncherGaugeview.pdb
+C:\Dotnet_Learning\AutoLauncherGaugeview\obj\Release\AutoLauncherGaugeview.csproj.AssemblyReference.cache
+C:\Dotnet_Learning\AutoLauncherGaugeview\obj\Release\AutoLauncherGaugeview.csproj.CoreCompileInputs.cache
+C:\Dotnet_Learning\AutoLauncherGaugeview\obj\Release\AutoLauncherGaugeview.exe
+C:\Dotnet_Learning\AutoLauncherGaugeview\obj\Release\AutoLauncherGaugeview.pdb
+C:\Dotnet_Learning\AutoLauncherGaugeview\obj\Release\AutoLauncherGaugeview.exe.config

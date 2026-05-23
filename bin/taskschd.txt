@@ -1,0 +1,56 @@
+
+1.Create folder C:\Launcher and put release folder content in it .
+2.Give Access to all Gaugeview adminstrator right (Program will handle admin right popup automatically )
+
+3. Open Task Scheduler
+
+	Press:
+
+		Windows + R
+
+	Type:
+
+		taskschd.msc
+
+4. Create a New Task
+
+	On the right side, click:
+
+		Create Task...
+
+5. General Tab
+
+	Set Name: GaugeView Auto Launcher
+
+	Check:
+
+		✅ Run only when user is logged on
+		✅ Run with highest privileges
+
+6.Triggers Tab
+
+	Click New...
+
+		Begin the task: At log on
+
+	Choose:
+		Any user
+	Click OK.
+
+7. Actions Tab
+
+		Click New...
+
+		Action:
+
+			Start a program
+
+		Program/script:
+
+			C:\Launcher\AutoLauncherGaugeview.exe
+
+		Start in (optional): C:\Launcher
+		Click OK.
+
+
+
