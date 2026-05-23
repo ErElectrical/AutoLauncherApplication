@@ -1,6 +1,6 @@
-# AutoLauncherGaugeview
+# AutoLauncherApplications
 
-AutoLauncherGaugeview is a lightweight Windows startup launcher designed for industrial systems. It automatically starts one or more configured applications after Windows login, displays a startup warning screen, prevents duplicate application launches, and maintains execution logs.
+AutoLauncherApplication is a lightweight Windows startup launcher designed for industrial systems. It automatically starts one or more configured applications after Windows login, displays a startup warning screen, prevents duplicate application launches, and maintains execution logs.
 
 ## Features
 
